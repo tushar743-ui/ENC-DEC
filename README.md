@@ -163,10 +163,8 @@ Potential improvements:
 - Support for multiple encryption algorithms
 - Logging system for audit trails
 
-## License
 
-[Add license information here]
 
 ## Author
 
-[Add author information here]
+Tushar Patle
