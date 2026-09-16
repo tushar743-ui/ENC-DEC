@@ -1,6 +1,6 @@
 # Encryption & Decryption Project
 
-A C++ application for batch encrypting and decrypting files using a multi-threaded task management system.
+A C++ application for batch encrypting and decrypting files using a sequential task management system.
 
 ## Project Overview
 
